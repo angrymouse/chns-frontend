@@ -204,7 +204,7 @@
 	background-attachment: fixed;
 	background-color: #00000000;
 	background-blend-mode: multiply;
-
+	backdrop-filter: blur(3px);
 	overflow: hidden;
 }
 .bg-darkeus {
