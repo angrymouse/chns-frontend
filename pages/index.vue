@@ -204,11 +204,12 @@
 	background-attachment: fixed;
 	background-color: #00000000;
 	background-blend-mode: multiply;
-	backdrop-filter: blur(3px);
+
 	overflow: hidden;
 }
 .bg-darkeus {
 	background-color: #000000cc;
+	backdrop-filter: blur(3px);
 	/* padding */
 }
 hr {
