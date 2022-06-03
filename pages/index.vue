@@ -66,7 +66,7 @@
 					><p class="md:w-1/2 sm:w-full sm:p-1">
 						To deposit HNS and get cHNS, you get HNS address assigned to your
 						JUNO wallet, and for every HNS that is sent to this address, you
-						receive idential number of cHNS cw20 token to your JUNO address.
+						receive identical number of cHNS cw20 token to your JUNO address.
 					</p></span
 				>
 
