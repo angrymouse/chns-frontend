@@ -6,7 +6,10 @@ export default defineNuxtConfig({
   css: ["~/assets/css/main.scss"],
   head: {
       title:"Cosmos-peg Handshake"
-    },
+  },
+  generate: {
+    dir:"dist"
+  },
     googleFonts: {
         // download:true,
   families: {
@@ -21,5 +24,6 @@ export default defineNuxtConfig({
   }
     },
     ssr: false,
-    target: 'static'
+  target: 'static'
+    
 })
