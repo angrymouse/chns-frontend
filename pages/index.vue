@@ -32,7 +32,7 @@
 					usage in smart contracts.</span
 				>
 				<span
-					>Warning: <span class="text-red-600">BETA</span>, use on your own
+					>Warning: <span class="text-red-600">ALPHA</span>, use on your own
 					risk!</span
 				>
 				<span
